@@ -1,0 +1,23 @@
+{
+  "name": "image-sprinkles",
+  "version": "1.0.0",
+  "description": "Experimenting with artsy image manipulations",
+  "main": "src/sprinkle.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/vrama628/image-sprinkles"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vijay Ramamurthy",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "jimp": "^0.2.27",
+    "underscore": "^1.8.3"
+  }
+}
